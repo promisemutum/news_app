@@ -1,6 +1,6 @@
-
+from ui import ui_fuc
 def main():
-    print("Main")
+    ui_fuc()
 
 if __name__ == '__main__':
     main()
